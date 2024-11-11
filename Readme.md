@@ -1,7 +1,7 @@
 # CCAStereo: Cross-Attention Integration of Contextual and Geometric Features for Efficient Stereo Matching
 
 ## Overview
-The proposed efficient cost volume-based stereo matching network integrates a Context Cross Attention (CCA) module, which acts as a guidance mechanism in the cost volume aggregation process.
+This study introduces an efficient stereo matching framework that delivers real-time, high-accuracy depth estimation through three key components: Guided Concatenation Volume (GCV), Context Cross Attention (CCA), and Uncertainty-Based Refinement (UR).
 
 ## Performance Comparison on KITTI Benchmarks
 
