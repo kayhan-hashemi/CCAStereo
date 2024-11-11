@@ -102,7 +102,7 @@ python train_kitti.py \
 
 ## Pretrained Models
 Pretrained weights are available for use and evaluation:
-- [SceneFlow Pretrained Model](https://drive.google.com/file/d/1TO9aIcLdlNWp2hdLyHzXGOWDUfuexCFb/view?usp=sharing)
+- [SceneFlow and KITTI Pretrained Models](https://drive.google.com/file/d/1TO9aIcLdlNWp2hdLyHzXGOWDUfuexCFb/view?usp=sharing)
 
 
 ## Evaluation
