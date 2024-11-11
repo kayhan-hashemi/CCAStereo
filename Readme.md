@@ -90,7 +90,7 @@ python train_kitti.py \
 ## Pretrained Models
 Pretrained weights are available for use and evaluation:
 - [SceneFlow and KITTI Pretrained Models](https://drive.google.com/file/d/1TO9aIcLdlNWp2hdLyHzXGOWDUfuexCFb/view?usp=sharing)
-Note: Place all pretrained model files in `pretrained` folder
+*Note: Place all pretrained model files in `pretrained` folder.*
 
 ## Evaluation
 
