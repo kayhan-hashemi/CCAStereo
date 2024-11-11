@@ -33,7 +33,7 @@ The proposed efficient cost volume-based stereo matching network integrates a Co
 ## Installation
 
 ## Directory Structure
-Before running the project, please ensure you have the following folder structure set up:
+Before running the project, please ensure you have the following folder structure set up in the root directory:
 
 ```
 .
@@ -47,19 +47,6 @@ Before running the project, please ensure you have the following folder structur
     ├── kitti/          # KITTI model checkpoints
     └── sceneflow/      # SceneFlow model checkpoints
 ```
-
-1. Create a folder named `pretrained` in the root directory
-   - Place all pretrained model files in this folder
-
-2. Create a folder named `outputs` with the following subfolders:
-   - `eth3D`
-   - `kitti`
-   - `middlebury`
-   - `sceneflow`
-
-3. Create a folder named `checkpoints` with the following subfolders:
-   - `kitti`
-   - `sceneflow`
 
 ### Setting up the Environment
 ```bash
@@ -102,8 +89,8 @@ python train_kitti.py \
 
 ## Pretrained Models
 Pretrained weights are available for use and evaluation:
-- [SceneFlow and KITTI Pretrained Models](https://drive.google.com/file/d/1TO9aIcLdlNWp2hdLyHzXGOWDUfuexCFb/view?usp=sharing)
-
+* [SceneFlow and KITTI Pretrained Models](https://drive.google.com/file/d/1TO9aIcLdlNWp2hdLyHzXGOWDUfuexCFb/view?usp=sharing)
+- Place all pretrained model files in this folder
 
 ## Evaluation
 
