@@ -16,8 +16,9 @@ This study introduces an efficient stereo matching framework that delivers real-
 | CoEx | 1.55 | 1.93 | 1.15 | 1.42 | 1.79 | 3.82 | 2.13 | 33 |
 | HITNet | 1.41 | 1.89 | 1.14 | 1.53 | 1.74 | 3.20 | 1.98 | 54 |
 | Fast-ACVNet | 1.68 | 2.13 | 1.23 | 1.56 | 1.82 | 3.93 | 2.17 | 43 |
-| CGI-Stereo | 1.41 | 1.76 | 1.05 | 1.30 | 1.66 | 3.38 | 1.98 | 36 |
-| **Proposed Model** | **1.31** | **1.64** | **0.97** | **1.21** | **1.58** | 3.81 | **1.95** | 57 |
+| CGI-Stereo | 1.41 | 1.76 | 1.05 | 1.30 | 1.66 | 3.38 | 1.94 | 36 |
+| LightStereo-L  | 1.55 | 1.87 | 1.10 | 1.33 | 1.78 | **2.64** | **1.93** | 37 |
+| **Proposed Model** | **1.31** | **1.64** | **0.97** | **1.21** | **1.58** | 3.81 | 1.95 | 57 |
 
 *Note: Lower values indicate better performance. Best results are shown in bold.*
 
