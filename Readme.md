@@ -1,4 +1,4 @@
-# CCAStereo: Cross-Attention Integration of Contextual and Geometric Features for Efficient Stereo Matching
+# CCAStereo: Real-time stereo matching with enhanced geometric comprehension through cross-attention integration
 
 ## Official Implementation of
 [Neurocomputing2025]: ["Real-time stereo matching with enhanced geometric comprehension through cross-attention integration"](https://doi.org/10.1016/j.neucom.2025.130069)
