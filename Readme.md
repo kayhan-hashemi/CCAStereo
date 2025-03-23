@@ -1,7 +1,7 @@
 # CCAStereo: Cross-Attention Integration of Contextual and Geometric Features for Efficient Stereo Matching
 
 ## Official Implementation of
-[Neurocomputing2025]: https://doi.org/10.1016/j.neucom.2025.130069 "Real-time stereo matching with enhanced geometric comprehension through cross-attention integration"
+[Neurocomputing2025]: ["Real-time stereo matching with enhanced geometric comprehension through cross-attention integration"](https://doi.org/10.1016/j.neucom.2025.130069)
 
 ## Overview
 This study introduces an efficient stereo matching framework that delivers real-time, high-accuracy depth estimation through three key components: Guided Concatenation Volume (GCV), Context Cross Attention (CCA), and Uncertainty-Based Refinement (UR).
